@@ -19,11 +19,6 @@ let isLoggedIn = false
 // undefined => let a;
 // null => let a = null;
 // Symbol => unique value
-
-
-
-
-   
 // Object => {key: value}
 // Function => function() {}
 

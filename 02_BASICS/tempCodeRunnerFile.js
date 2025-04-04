@@ -1,0 +1,1 @@
+console.log(myArr.includes(10));
